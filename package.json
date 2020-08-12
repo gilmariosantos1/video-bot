@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/gilmariosantos1/video-bot.git"
   },
-  "author": "",
+  "author": "gilmario",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gilmariosantos1/video-bot/issues"
   },
-  "homepage": "https://github.com/gilmariosantos1/video-bot#readme"
+  "homepage": "https://github.com/gilmariosantos1/video-bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
